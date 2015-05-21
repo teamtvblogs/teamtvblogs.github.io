@@ -360,7 +360,7 @@ p.sub-text{
     border-radius: 0;
     margin-bottom: 0;
     width:100%;
-    min-height: 70px;
+    min-height: 100px;
     padding: 10px 0;
     -webkit-box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 3px;
     box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 3px;
