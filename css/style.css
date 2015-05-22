@@ -535,11 +535,11 @@ TOP BARS
     line-height: 35px;
 }
 .socials-simple li a{
-    color:#838181;
+    color:#BABDE2;
     font-size: 15px;
 }
 .socials-simple li a:hover{
-    color:#fff;
+    color:#2E358B;
 }
 .top-dark-right{
     margin: 0px;
@@ -551,14 +551,14 @@ TOP BARS
     padding:0px 10px;
 }
 .top-dark-right li, .top-dark-right li a{
-    color:#838181;
+    color:#BABDE2;
     font-size: 12px;
 }
 .top-dark-right li i{
     margin-right: 5px;
 }
 .top-dark-right li a:hover{
-    color:#fff;
+    color:#2E358B;
 }
 /* Mega MENU */
 
@@ -1227,7 +1227,7 @@ width: 50px;
 .blue-bg{
     background-color:#3498db;
     padding-top: 70px;
-    padding-bottom: 40px;
+    padding-bottom: 15px;
 }
 .blue-bg .services-box i{
     box-shadow: none;
