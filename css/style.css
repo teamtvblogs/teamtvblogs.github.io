@@ -165,7 +165,7 @@ h6 {
 }
 /*parahraphs*/
 p {
-    color: #555;
+    color: #323B7E;
     line-height: 24px;
     margin: 0 0 20px;
     font-family: 'Open Sans', sans-serif;
@@ -526,7 +526,7 @@ TOP BARS
 }
 
 .top-bar-dark{
-    background-color: #F6F6FF;
+    background-color: #FCFCFD;
 }
 .socials-simple {
     padding: 0;
@@ -2062,9 +2062,9 @@ ul.post-desc li + li{
 /* #footer is by default*/
 #footer {
 
-    background: #111;
+    background: rgba(108, 168, 255, 0.7);
     font-size: 0.9em;
-    padding: 80px 0 0;
+    padding: 40px 0 0;
     position: relative;
     clear: both;
 }
@@ -2091,7 +2091,7 @@ ul.post-desc li + li{
     margin-right: 5px;
 }
 .contact a{
-    color:#777;
+    color:#323B7E;
 }
 .contact a:hover{
     color:#3498db;
@@ -2114,11 +2114,11 @@ ul.post-desc li + li{
 
 }
 .footer-btm{
-    margin-top: 30px;
+    margin-top: 5px;
     padding: 20px;
-    background-color: #0c0c0c;
-    border-top-left-radius: 6px;
-    border-top-right-radius:6px; 
+    background-color: rgba(108, 168, 255, 0.7);
+    border-top-left-radius: 15px;
+    border-top-right-radius:15px; 
 }
 .news-form .form-control{
     border-radius: 3px;
