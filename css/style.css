@@ -2062,7 +2062,7 @@ ul.post-desc li + li{
 /* #footer is by default*/
 #footer {
 
-    background: rgba(108, 168, 255, 0.7);
+    background: #FCFCFD;
     font-size: 0.9em;
     padding: 40px 0 0;
     position: relative;
@@ -2070,7 +2070,7 @@ ul.post-desc li + li{
 }
 
 .footer-col h3 {
-    color: #fff;
+    color: #323B7E;
     margin-bottom: 35px;
     font-size: 22px;
     text-transform: capitalize;
