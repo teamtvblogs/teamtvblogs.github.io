@@ -341,7 +341,7 @@ p.sub-text{
 
 }
 .no-padding.img-2{
-    background:url(../img/showcase-2.jpg) scroll center no-repeat;
+    background:url(../img/village.jpg) scroll center no-repeat;
     background-size:  cover;
     position: absolute;
     height: 100%;
@@ -2308,7 +2308,7 @@ ul.post-desc li + li{
 
 /****fun facts*****/
 .fun-fact-wrap{
-    background: url(../img/showcase-4.jpg);
+    background: url(../img/Slider1.jpg);
     background-repeat: repeat !important;
     padding-top:100px;
     padding-bottom: 70px;
